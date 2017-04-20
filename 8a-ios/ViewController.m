@@ -26,4 +26,12 @@
 }
 
 
+- (IBAction)btnSignout_Clicked:(id)sender {
+}
+
+- (IBAction)btnWatchNews_Clicked:(id)sender {
+}
+
+- (IBAction)btnReportNews_Clicked:(id)sender {
+}
 @end

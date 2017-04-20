@@ -10,6 +10,10 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIButton *btnSignout;
+- (IBAction)btnSignout_Clicked:(id)sender;
+- (IBAction)btnWatchNews_Clicked:(id)sender;
+- (IBAction)btnReportNews_Clicked:(id)sender;
 
 @end
 
